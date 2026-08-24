@@ -1,17 +1,44 @@
-# whatsapp_clone
+# 📱 WhatsApp UI Clone
 
-WhatsApp Clone.
+A clean, responsive WhatsApp UI clone built using **Flutter & Dart**. This project translates custom Figma specifications into modular, pixel-perfect Flutter code, featuring reusable UI widgets and custom asset integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Chat List | Conversation View | Call Details |
+| :---: | :---: | :---: |
+| <img src="assets/profile_pic.png" width="200" /> | <img src="assets/chat_bg.png" width="200" /> | <img src="assets/flutter_ad.png" width="200" /> |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+*(Replace the image sources above with your actual app screenshots once added to your repository).*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features & Implementation
+
+* **Figma-to-Code Precision:** Built to strictly match custom layout specifications, icon sizes, and color palettes.
+* **Modular UI Architecture:** Structured around clean, reusable widgets (`lib/`) for chat tiles, app bars, action buttons, and input fields.
+* **Custom Media Assets:** Integrated custom PNG icons, vector graphics, chat background textures, and profile assets managed via `pubspec.yaml`.
+* **Cross-Platform Compatibility:** Configured for seamless execution across Android and iOS.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework:** [Flutter](https://flutter.dev/) (Dart)
+* **IDE:** Android Studio
+* **Design Source:** Figma
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) installed and set up on your environment.
+
+### Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ayaymann/whatsapp-ui-clone.git](https://github.com/ayaymann/whatsapp-ui-clone.git)
