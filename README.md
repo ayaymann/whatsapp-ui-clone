@@ -10,8 +10,6 @@ A clean, responsive WhatsApp UI clone built using **Flutter & Dart**. This proje
 | :---: | :---: | :---: |
 | <img src="assets/profile_pic.png" width="200" /> | <img src="assets/chat_bg.png" width="200" /> | <img src="assets/flutter_ad.png" width="200" /> |
 
-*(Replace the image sources above with your actual app screenshots once added to your repository).*
-
 ---
 
 ## ✨ Features & Implementation
